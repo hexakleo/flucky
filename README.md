@@ -22,9 +22,9 @@ A collection of utility CSS styles designed to streamline your web design and de
 
 To use **Flucky Source** in your project, simply download the CSS file or clone this repository.
 
-'''bash
+```bash
 git clone https://github.com/hexakleo/flucky-source.git
-'''
+```
 
 Link the CSS file to your HTML:
 
